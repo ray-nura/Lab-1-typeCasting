@@ -5,7 +5,7 @@ public class typeCasting {
 	public static void main(String[] args) {
 		//implicit conversion
 				System.out.println("Implicit Type Casting");
-				char a='B';
+				char a='A';
 				System.out.println("char- Value of a: "+a);
 				
 				int b=a;
